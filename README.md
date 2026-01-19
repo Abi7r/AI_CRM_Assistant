@@ -24,7 +24,5 @@ AI-powered Customer Relationship Management system with natural language query i
 - "Total revenue from active customers"
 
 
-[Include your installation steps]
 
-## 📸 Screenshots
 
